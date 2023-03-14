@@ -4,4 +4,4 @@ $ cat my_script.sql
 SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 3;
 $
 
-CREATE database hbtn_0c_0
+CREATE DATABASE hbtn_0c_0
